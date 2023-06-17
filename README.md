@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MyTran23
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning SQL,Python
+- 👀 I'm doing data analyst in ecommerce
 - 📫 How to reach me tranmy1489@gmail.com
 
 <!---
