@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MyTran23
-- 👀 I'm doing data analyst in ecommerce
+- 👀 I'm a data analyst in ecommerce
 - 📫 How to reach me:
   * Mail: tranmy1489@gmail.com
   * [Linkedin](https://www.linkedin.com/in/hamy136/)
